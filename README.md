@@ -1,4 +1,4 @@
-# Hide-Facetime-Overlay
+# Kill-Facetime-Overlay
 
 Simply double click on <Strong> Kill-Facetime-Overlay </Strong> and keep on talking!
 
